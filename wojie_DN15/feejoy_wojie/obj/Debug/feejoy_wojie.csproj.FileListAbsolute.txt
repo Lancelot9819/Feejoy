@@ -1,0 +1,1150 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\feejoy_wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.hardware.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.subform.standardhardware.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街标定程序\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.standardhardware.resources
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wojie\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.subform.standardhardware.resources
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\wojie_DN32\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.subform.standardhardware.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0619pm\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0628 脉冲读取机制改变\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN32_0704 半自动全自动完成\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN20_0706 加入自定参数\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15_0707 一帆风顺\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\feejoy_wojie.exe.config
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\AxInterop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\feejoy_wojie.exe
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\feejoy_wojie.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Framework.Commons.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Aspose.Words.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\org.in2bits.MyXls.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DotRas.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Framework.BaseUIDx.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Framework.Commons.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Framework.ControlUtil.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\WHC.Pager.Entity.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\org.in2bits.MyXls.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\Interop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\bin\Debug\AxInterop.MitsubishiComm.dll
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.mainform.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.subform.monitor.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.subform.calibratedata.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.subform.plan.resources
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\涡街\上位机程序\wojie_DN15\feejoy_wojie\obj\Debug\feejoy_wojie.csprojResolveAssemblyReference.cache
